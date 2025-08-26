@@ -1,6 +1,6 @@
 # Superstore Sales Dashboard
 
-![Dashboard Screenshot](images/t8dashboard.png)
+![Dashboard Screenshot](images/task8dashboard.png)
 
 ## 📌 Project Overview
 This project presents a **Power BI interactive dashboard** built on the **Superstore Sales dataset** to analyze sales performance across various dimensions.  
